@@ -1,0 +1,5 @@
+- Hi, I’m tigerboy3050!
+- I’m interested in the backend of Minecraft and creating servers, resourcepacks and plugins.
+- I’m currently learning how to code Minecraft java plugins.
+- You can reach me with tigerboy3050#7702 on discord.
+- I also make free models, dm me on discord if you want some.
